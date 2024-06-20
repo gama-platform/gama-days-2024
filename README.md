@@ -1,2 +1,3 @@
-# gama-days-2024
-Website for GAMA DAYS 2024
+# Gama-Days-2024
+Source website for GamaDays event - Based on MinimalMistake theme
+
